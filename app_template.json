@@ -100,7 +100,7 @@
                 "source": {
                     "type": "Git",
                     "git": {
-                        "uri": "http://github.com/2015-Middleware-Keynote/sketchpod"
+                        "uri": "http://github.com/hodrigohamalho/sketchpod"
                     }
                 },
                 "strategy": {
@@ -273,7 +273,7 @@
                 "source": {
                     "type": "Git",
                     "git": {
-                        "uri": "http://github.com/2015-Middleware-Keynote/hexboard",
+                        "uri": "http://github.com/hodrigohamalho/hexboard",
                         "ref": "master"
                     }
                 },
